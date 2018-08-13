@@ -1,0 +1,38 @@
+/* GERAL */
+body {
+    background-image: url(../../img/background.png);
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+.caixa {
+    text-align: center;
+    vertical-align: middle;
+    background-color: white;
+    width: 40%;
+    margin: 50px auto 0 auto;
+    padding: 50px 0;
+    border-radius: 8px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,.4);
+}
+
+/* FONTE */
+h1 {
+font-family: 'Lato', Arial, Helvetica, sans-serif;
+text-align: center;
+font-weight: 600;
+color: purple;
+font-size: 22px;
+}
+
+p {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #4F4F4F;
+    font-size: 18px;
+}
+
+.redes img {
+    width: 50px;
+    margin: 10px;
+
+}
